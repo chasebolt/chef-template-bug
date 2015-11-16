@@ -8,6 +8,6 @@
 #
 
 buggy_template '/hammer' do
-  # number 505
+  # number 404
   action :create
 end
